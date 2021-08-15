@@ -1,0 +1,1851 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+    "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg contentScriptType="text/ecmascript" width="1462.0"
+     xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify"
+     contentStyleType="text/css"
+     viewBox="-541.000000 -747.000000 1462.000000 3026.000000" height="3026.0"
+     preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg"
+     version="1.1">
+    <g id="edges">
+        <path fill="none" stroke-width="20.0"
+              d="M -2.925892,-152.384293 C 45.274109,-200.584290 45.274109,-104.184296 -2.925892,-152.384293"
+              class="id_中山大学" stroke-opacity="1.0" stroke="#147d43"/>
+        <path fill="none" stroke-width="11.0"
+              d="M -232.262268,-349.924988 C -190.662262,-391.524994 -190.662262,-308.324982 -232.262268,-349.924988"
+              class="id_厦门大学" stroke-opacity="1.0" stroke="#81a58c"/>
+        <path fill="none" stroke-width="7.0"
+              d="M 66.213524,-132.144638 L 40.837498,-139.573135"
+              class="id_清华大学 id_中山大学" stroke-opacity="1.0" stroke="#66c2a4"/>
+        <path fill="none" stroke-width="7.0"
+              d="M 15.646478,45.787449 C 41.046478,20.387449 41.046478,71.187447 15.646478,45.787449"
+              class="id_中国人民大学" stroke-opacity="1.0" stroke="#006d2c"/>
+        <path fill="none" stroke-width="7.0"
+              d="M -229.922974,13.485289 C -190.722977,-25.714708 -190.722977,52.685287 -229.922974,13.485289"
+              class="id_浙江大学" stroke-opacity="1.0" stroke="#3da074"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -225.102325,32.998650 L -194.614807,156.408264"
+              class="id_浙江大学 id_中山大学（珠海）" stroke-opacity="1.0" stroke="#3da074"/>
+        <path fill="none" stroke-width="6.0"
+              d="M 82.257973,-120.555222 L 172.313309,9.826099"
+              class="id_清华大学 id_武汉大学" stroke-opacity="1.0" stroke="#66c2a4"/>
+        <path fill="none" stroke-width="5.0"
+              d="M 403.489075,-463.763794 C 431.889069,-492.163788 431.889069,-435.363800 403.489075,-463.763794"
+              class="id_北京师范大学" stroke-opacity="1.0" stroke="#aa7b6a"/>
+        <path fill="none" stroke-width="5.0"
+              d="M 5.161997,53.807152 L -152.013763,174.032761"
+              class="id_中国人民大学 id_中山大学（珠海）" stroke-opacity="1.0"
+              stroke="#006d2c"/>
+        <path fill="none" stroke-width="4.0"
+              d="M 75.428253,1.073092 L 162.873413,31.623287"
+              class="id_中国社会科学院 id_武汉大学" stroke-opacity="1.0" stroke="#66c2a4"/>
+        <path fill="none" stroke-width="4.0"
+              d="M 14.414790,32.645039 L 0.489242,-115.943977"
+              class="id_中国人民大学 id_中山大学" stroke-opacity="1.0" stroke="#006d2c"/>
+        <path fill="none" stroke-width="3.0"
+              d="M -21.564732,-168.439011 L -209.304672,-330.150299"
+              class="id_中山大学 id_厦门大学" stroke-opacity="1.0" stroke="#147d43"/>
+        <path fill="none" stroke-width="3.0"
+              d="M 14.592236,-135.113647 L 172.941650,20.998745"
+              class="id_中山大学 id_武汉大学" stroke-opacity="1.0" stroke="#147d43"/>
+        <path fill="none" stroke-width="3.0"
+              d="M 57.336990,4.194668 L -157.308914,177.003433"
+              class="id_中国社会科学院 id_中山大学（珠海）" stroke-opacity="1.0"
+              stroke="#66c2a4"/>
+        <path fill="none" stroke-width="3.0"
+              d="M 28.844772,45.575375 L 163.963791,43.404247"
+              class="id_中国人民大学 id_武汉大学" stroke-opacity="1.0" stroke="#006d2c"/>
+        <path fill="none" stroke-width="3.0"
+              d="M -326.997040,40.422779 L -257.963379,21.266342"
+              class="id_剑桥大学 id_浙江大学" stroke-opacity="1.0" stroke="#e0453d"/>
+        <path fill="none" stroke-width="3.0"
+              d="M -297.405121,-415.073730 L -253.686630,-371.351288"
+              class="id_中国科学院大学 id_厦门大学" stroke-opacity="1.0" stroke="#e0453d"/>
+        <path fill="none" stroke-width="3.0"
+              d="M -60.932693,474.275421 L -8.349657,518.166870"
+              class="id_湖南大学 id_湖南师范大学" stroke-opacity="1.0" stroke="#aa7b6a"/>
+        <path fill="none" stroke-width="3.0"
+              d="M -14.212591,-130.526337 L -168.353165,167.984222"
+              class="id_中山大学 id_中山大学（珠海）" stroke-opacity="1.0" stroke="#147d43"/>
+        <path fill="none" stroke-width="3.0"
+              d="M 158.523544,-191.722931 L -161.420837,172.712311"
+              class="id_复旦大学 id_中山大学（珠海）" stroke-opacity="1.0" stroke="#51b18b"/>
+        <path fill="none" stroke-width="3.0"
+              d="M -330.366394,14.209227 L -259.022217,13.695019"
+              class="id_哥本哈根大学 id_浙江大学" stroke-opacity="1.0" stroke="#e0453d"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -212.026031,22.634577 L -97.414490,81.226379"
+              class="id_浙江大学 id_南京大学" stroke-opacity="1.0" stroke="#3da074"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 153.948257,-198.873474 L 26.412926,-161.078766"
+              class="id_复旦大学 id_中山大学" stroke-opacity="1.0" stroke="#51b18b"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -213.693970,1.626557 L -27.632729,-134.330704"
+              class="id_浙江大学 id_中山大学" stroke-opacity="1.0" stroke="#3da074"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -108.703331,-14.722596 L -173.676605,168.942123"
+              class="id_上海交通大学 id_中山大学（珠海）" stroke-opacity="1.0"
+              stroke="#8f9781"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 302.507111,-199.961487 L 396.088898,-444.431763"
+              class="id_首都师范大学 id_北京师范大学" stroke-opacity="1.0" stroke="#8f9781"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -209.870941,14.872982 L 167.027039,40.956066"
+              class="id_浙江大学 id_武汉大学" stroke-opacity="1.0" stroke="#3da074"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -122.248047,-152.001389 L 171.128693,28.146698"
+              class="id_北京大学 id_武汉大学" stroke-opacity="1.0" stroke="#288f5c"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 319.806793,90.992409 L 221.469604,53.053444"
+              class="id_苏州大学 id_武汉大学" stroke-opacity="1.0" stroke="#e0453d"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -120.356354,-158.122055 L -33.489433,-153.877655"
+              class="id_北京大学 id_中山大学" stroke-opacity="1.0" stroke="#288f5c"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -109.082565,-36.641308 L -222.272659,-324.518341"
+              class="id_上海交通大学 id_厦门大学" stroke-opacity="1.0" stroke="#8f9781"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -135.061310,-145.980682 L -179.737106,167.453857"
+              class="id_北京大学 id_中山大学（珠海）" stroke-opacity="1.0" stroke="#288f5c"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -132.361862,356.685150 L -174.367935,228.570801"
+              class="id_山东大学 id_中山大学（珠海）" stroke-opacity="1.0" stroke="#8f9781"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -44.538921,-462.502075 L 155.091064,-219.674316"
+              class="id_华东师范大学 id_复旦大学" stroke-opacity="1.0" stroke="#81a58c"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 67.750809,-135.303848 L -210.058762,-334.041199"
+              class="id_清华大学 id_厦门大学" stroke-opacity="1.0" stroke="#66c2a4"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 155.176239,-195.911942 L -206.993484,1.017404"
+              class="id_复旦大学 id_浙江大学" stroke-opacity="1.0" stroke="#51b18b"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -39.556744,-471.252258 L 32.808323,-460.131714"
+              class="id_华东师范大学 id_南京师范大学" stroke-opacity="1.0" stroke="#81a58c"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -327.991882,-447.418274 L -251.389282,-369.404388"
+              class="id_江苏宏德文化初版基金会 id_厦门大学" stroke-opacity="1.0"
+              stroke="#e0453d"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -255.094650,302.951080 L -201.891449,224.689163"
+              class="id_普林斯顿大学 id_中山大学（珠海）" stroke-opacity="1.0"
+              stroke="#e0453d"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -59.133900,-251.200760 L -18.055252,-178.982452"
+              class="id_南开大学 id_中山大学" stroke-opacity="1.0" stroke="#81a58c"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 168.617661,-203.220703 C 198.217651,-232.820709 198.217651,-173.620697 168.617661,-203.220703"
+              class="id_复旦大学" stroke-opacity="1.0" stroke="#51b18b"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 303.393158,121.377739 L 217.990219,59.456230"
+              class="id_中国科学院 id_武汉大学" stroke-opacity="1.0" stroke="#e0453d"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -156.697876,-356.002808 L -205.050140,-352.113708"
+              class="id_华侨大学 id_厦门大学" stroke-opacity="1.0" stroke="#e0453d"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -27.496580,-153.584839 L -114.363503,-157.829239"
+              class="id_中山大学 id_北京大学" stroke-opacity="1.0" stroke="#147d43"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -22.788252,-137.870621 L -208.849503,-1.913363"
+              class="id_中山大学 id_浙江大学" stroke-opacity="1.0" stroke="#147d43"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 286.693756,-190.306732 L 189.791397,-200.904938"
+              class="id_首都师范大学 id_复旦大学" stroke-opacity="1.0" stroke="#8f9781"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -71.239014,87.189789 L 167.341537,47.527554"
+              class="id_南京大学 id_武汉大学" stroke-opacity="1.0" stroke="#8f9781"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -115.965218,-22.251751 L -207.881393,6.573072"
+              class="id_上海交通大学 id_浙江大学" stroke-opacity="1.0" stroke="#8f9781"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 900.269531,2261.526367 L 896.577454,2263.004150"
+              class="id_中央民族大学 id_兰州大学北京校友会" stroke-opacity="1.0"
+              stroke="#e0453d"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -65.094994,-465.380951 L -212.267609,-363.734528"
+              class="id_华东师范大学 id_厦门大学" stroke-opacity="1.0" stroke="#81a58c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -134.007324,-171.628815 L -144.162262,-342.266785"
+              class="id_北京大学 id_华侨大学" stroke-opacity="1.0" stroke="#288f5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -421.032013,309.109894 L -210.010742,210.685638"
+              class="id_上海师范大学 id_中山大学（珠海）" stroke-opacity="1.0"
+              stroke="#e0453d"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 220.286240,-349.183746 L 174.724258,-220.471771"
+              class="id_中国政法大学 id_复旦大学" stroke-opacity="1.0" stroke="#aa7b6a"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 16.601587,-167.345490 L 389.438812,-452.999023"
+              class="id_中山大学 id_北京师范大学" stroke-opacity="1.0" stroke="#147d43"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 232.862839,-364.367188 L 388.194916,-454.854340"
+              class="id_中国政法大学 id_北京师范大学" stroke-opacity="1.0" stroke="#aa7b6a"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -230.402512,-328.706329 L -186.670486,170.247513"
+              class="id_厦门大学 id_中山大学（珠海）" stroke-opacity="1.0" stroke="#81a58c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -139.174088,-170.206223 L -221.085968,-328.347687"
+              class="id_北京大学 id_厦门大学" stroke-opacity="1.0" stroke="#288f5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -19.663231,-701.929565 L -50.989140,-490.309570"
+              class="id_澳门大学 id_华东师范大学" stroke-opacity="1.0" stroke="#e0453d"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -130.071625,-171.256210 L -57.694397,-456.818024"
+              class="id_北京大学 id_华东师范大学" stroke-opacity="1.0" stroke="#288f5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -220.084290,-4.042122 L -141.023819,-144.886627"
+              class="id_浙江大学 id_北京大学" stroke-opacity="1.0" stroke="#3da074"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -312.194427,-213.945404 L -65.567223,-461.284943"
+              class="id_中国科学技术大学 id_华东师范大学" stroke-opacity="1.0"
+              stroke="#c56054"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 373.882385,-323.913116 L 184.392792,-212.496231"
+              class="id_台湾政治大学 id_复旦大学" stroke-opacity="1.0" stroke="#e0453d"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 608.954529,-83.927773 C 631.954529,-106.927773 631.954529,-60.927773 608.954529,-83.927773"
+              class="id_兰州大学" stroke-opacity="1.0" stroke="#c56054"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -63.743858,-725.778320 L -54.187099,-490.479797"
+              class="id_四川大学 id_华东师范大学" stroke-opacity="1.0" stroke="#e0453d"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -512.818787,80.538933 L -252.400208,18.812975"
+              class="id_江苏省社会科学院 id_浙江大学" stroke-opacity="1.0" stroke="#e0453d"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 413.520782,223.489243 L 214.579208,58.963020"
+              class="id_捷克科学院 id_武汉大学" stroke-opacity="1.0" stroke="#e0453d"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 304.080414,-41.053329 L 23.020750,-142.975159"
+              class="id_华南师范大学 id_中山大学" stroke-opacity="1.0" stroke="#c56054"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 24.314535,55.742584 L 82.949425,123.083900"
+              class="id_中国人民大学 id_同济大学" stroke-opacity="1.0" stroke="#006d2c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 421.905396,-241.762665 L 186.709412,-205.973663"
+              class="id_香港亚洲艺术文献库 id_复旦大学" stroke-opacity="1.0" stroke="#e0453d"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 57.342579,-350.820282 L 5.094931,-178.793121"
+              class="id_德国哈根大学 id_中山大学" stroke-opacity="1.0" stroke="#e0453d"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 72.586082,-139.019485 L -47.460049,-457.393524"
+              class="id_清华大学 id_华东师范大学" stroke-opacity="1.0" stroke="#66c2a4"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 388.791443,-463.500763 L 65.000603,-457.706299"
+              class="id_北京师范大学 id_南京师范大学" stroke-opacity="1.0" stroke="#aa7b6a"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -467.740479,70.228180 L -252.392242,18.846422"
+              class="id_丹麦哥本哈根大学 id_浙江大学" stroke-opacity="1.0" stroke="#e0453d"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 73.708069,-8.957802 L 286.855194,-179.839722"
+              class="id_中国社会科学院 id_首都师范大学" stroke-opacity="1.0" stroke="#66c2a4"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 305.255035,-31.589630 L 216.031067,28.781052"
+              class="id_华南师范大学 id_武汉大学" stroke-opacity="1.0" stroke="#c56054"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 23.641201,35.283905 L 392.768890,-449.679504"
+              class="id_中国人民大学 id_北京师范大学" stroke-opacity="1.0" stroke="#006d2c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 235.730042,212.158340 L 28.569511,55.556541"
+              class="id_中共中央党校 id_中国人民大学" stroke-opacity="1.0" stroke="#c56054"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -211.030838,-351.632690 L -159.688217,-355.762268"
+              class="id_厦门大学 id_华侨大学" stroke-opacity="1.0" stroke="#81a58c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -426.321930,357.911041 L -207.992813,214.300674"
+              class="id_芝加哥大学 id_中山大学（珠海）" stroke-opacity="1.0" stroke="#e0453d"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -53.493149,-473.393890 C -26.293148,-500.593903 -26.293148,-446.193878 -53.493149,-473.393890"
+              class="id_华东师范大学" stroke-opacity="1.0" stroke="#81a58c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 533.979614,-585.405945 L 416.436127,-475.832916"
+              class="id_中科大 id_北京师范大学" stroke-opacity="1.0" stroke="#e0453d"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 8.638533,34.601357 L -219.361282,-329.332397"
+              class="id_中国人民大学 id_厦门大学" stroke-opacity="1.0" stroke="#006d2c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 58.683910,-10.363401 L -216.451370,-331.472198"
+              class="id_中国社会科学院 id_厦门大学" stroke-opacity="1.0" stroke="#66c2a4"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -293.416168,475.757294 L -194.633499,225.153152"
+              class="id_《江海学刊》，《文史哲》 id_中山大学（珠海）" stroke-opacity="1.0"
+              stroke="#e0453d"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 123.383606,-388.302063 L 10.101405,-176.716354"
+              class="id_中国社会学院 id_中山大学" stroke-opacity="1.0" stroke="#e0453d"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -392.987061,-515.023132 L -249.212799,-367.336761"
+              class="id_宏德文化出版基金会理事长 id_厦门大学" stroke-opacity="1.0"
+              stroke="#e0453d"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 381.860687,-279.275940 L 185.854172,-209.368271"
+              class="id_美国犹他大学 id_复旦大学" stroke-opacity="1.0" stroke="#e0453d"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 39.060478,721.767944 L 10.207606,546.424744"
+              class="id_河南师范大学 id_湖南师范大学" stroke-opacity="1.0" stroke="#e0453d"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -63.792221,-270.814026 L -54.361385,-456.315948"
+              class="id_南开大学 id_华东师范大学" stroke-opacity="1.0" stroke="#81a58c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 72.814384,-119.286835 L -34.724789,187.218063"
+              class="id_清华大学 id_西安交大" stroke-opacity="1.0" stroke="#66c2a4"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -51.299091,-459.465637 L -7.220642,-179.648102"
+              class="id_华东师范大学 id_中山大学" stroke-opacity="1.0" stroke="#81a58c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -336.533569,405.656799 L -201.074707,221.592728"
+              class="id_牛津大学 id_中山大学（珠海）" stroke-opacity="1.0" stroke="#e0453d"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -101.585350,-14.503404 L -43.995632,186.944565"
+              class="id_上海交通大学 id_西安交大" stroke-opacity="1.0" stroke="#8f9781"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -498.678314,-22.853048 L -252.814667,10.390108"
+              class="id_新加坡国立大学 id_浙江大学" stroke-opacity="1.0" stroke="#e0453d"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 98.884926,124.300102 L 290.431061,-176.633667"
+              class="id_同济大学 id_首都师范大学" stroke-opacity="1.0" stroke="#c56054"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 170.258102,-188.008896 L 192.457840,17.848248"
+              class="id_复旦大学 id_武汉大学" stroke-opacity="1.0" stroke="#51b18b"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -92.072121,83.957512 L -209.354843,24.000141"
+              class="id_南京大学 id_浙江大学" stroke-opacity="1.0" stroke="#8f9781"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -282.017151,431.072144 L -195.238647,224.906555"
+              class="id_慕尼黑大学 id_中山大学（珠海）" stroke-opacity="1.0" stroke="#e0453d"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 44.319996,-447.388702 L -218.110458,-6.366018"
+              class="id_南京师范大学 id_浙江大学" stroke-opacity="1.0" stroke="#c56054"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -120.372627,-159.654572 L 283.660461,-188.005707"
+              class="id_北京大学 id_首都师范大学" stroke-opacity="1.0" stroke="#288f5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -120.244766,-702.928772 L -58.268223,-489.813660"
+              class="id_云南大学 id_华东师范大学" stroke-opacity="1.0" stroke="#e0453d"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -388.683441,379.741394 L -205.518234,217.533600"
+              class="id_美国加州州立大学富乐敦分校 id_中山大学（珠海）" stroke-opacity="1.0"
+              stroke="#e0453d"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -376.766296,325.797211 L -207.965424,214.342224"
+              class="id_俄罗斯科学院 id_中山大学（珠海）" stroke-opacity="1.0"
+              stroke="#e0453d"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 2.559215,44.065952 L -207.020264,16.497906"
+              class="id_中国人民大学 id_浙江大学" stroke-opacity="1.0" stroke="#006d2c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 103.532539,-350.065002 L 10.160690,-176.684525"
+              class="id_华东政法大学 id_中山大学" stroke-opacity="1.0" stroke="#e0453d"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 162.161972,-217.092041 L 56.505489,-444.115906"
+              class="id_复旦大学 id_南京师范大学" stroke-opacity="1.0" stroke="#51b18b"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 86.428879,-131.927048 L 284.130829,-185.209396"
+              class="id_清华大学 id_首都师范大学" stroke-opacity="1.0" stroke="#66c2a4"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -339.858337,357.111725 L -204.154404,218.969818"
+              class="id_卫斯理大学 id_中山大学（珠海）" stroke-opacity="1.0" stroke="#e0453d"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 195.159760,42.902981 C 238.559753,-0.497021 238.559753,86.302979 195.159760,42.902981"
+              class="id_武汉大学" stroke-opacity="1.0" stroke="#aa7b6a"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -57.498512,-252.349838 L 178.775360,23.756405"
+              class="id_南开大学 id_武汉大学" stroke-opacity="1.0" stroke="#81a58c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 445.508148,110.556885 L 219.487106,49.477180"
+              class="id_华中科技大学 id_武汉大学" stroke-opacity="1.0" stroke="#e0453d"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 215.675293,-352.418488 L -212.070572,-1.174240"
+              class="id_中国政法大学 id_浙江大学" stroke-opacity="1.0" stroke="#aa7b6a"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -212.264633,3.883583 L 152.540649,-194.478851"
+              class="id_浙江大学 id_复旦大学" stroke-opacity="1.0" stroke="#3da074"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -16.961393,-172.587372 L -136.648468,-344.868256"
+              class="id_中山大学 id_华侨大学" stroke-opacity="1.0" stroke="#147d43"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 68.972885,-136.724701 L -134.790710,-346.398834"
+              class="id_清华大学 id_华侨大学" stroke-opacity="1.0" stroke="#66c2a4"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -445.451172,-471.756073 L -253.360199,-361.981812"
+              class="id_新华网浙江分公司总经理 id_厦门大学" stroke-opacity="1.0"
+              stroke="#e0453d"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -130.003174,-146.264542 L -43.630344,186.845016"
+              class="id_北京大学 id_西安交大" stroke-opacity="1.0" stroke="#288f5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 153.481033,-200.990814 L -117.510757,-161.068939"
+              class="id_复旦大学 id_北京大学" stroke-opacity="1.0" stroke="#51b18b"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -18.345957,-133.217087 L -95.586868,-37.206314"
+              class="id_中山大学 id_上海交通大学" stroke-opacity="1.0" stroke="#147d43"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 332.828400,-348.148010 L 182.338226,-215.330048"
+              class="id_陕西师范大学 id_复旦大学" stroke-opacity="1.0" stroke="#e0453d"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 309.407135,-185.284653 L 594.745850,-88.735504"
+              class="id_首都师范大学 id_兰州大学" stroke-opacity="1.0" stroke="#8f9781"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -223.075104,-5.412239 L -59.318954,-457.316895"
+              class="id_浙江大学 id_华东师范大学" stroke-opacity="1.0" stroke="#3da074"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -338.212402,453.557556 L -198.921051,223.031555"
+              class="id_韩国大学 id_中山大学（珠海）" stroke-opacity="1.0" stroke="#e0453d"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -291.410980,387.205261 L -198.270157,223.413177"
+              class="id_商务印书馆 id_中山大学（珠海）" stroke-opacity="1.0" stroke="#e0453d"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -394.595673,-559.750061 L -247.131668,-369.144531"
+              class="id_中盐金坛盐化有限责任公司 id_厦门大学" stroke-opacity="1.0"
+              stroke="#e0453d"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -244.544739,479.658478 L -190.167313,226.503113"
+              class="id_贵州大学 id_中山大学（珠海）" stroke-opacity="1.0" stroke="#e0453d"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 367.599274,242.241318 L 211.646515,61.961498"
+              class="id_中央社会主义学院 id_武汉大学" stroke-opacity="1.0" stroke="#e0453d"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 22.555893,34.540230 L 159.038696,-187.627960"
+              class="id_中国人民大学 id_复旦大学" stroke-opacity="1.0" stroke="#006d2c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 70.311218,-11.730943 L 160.259888,-186.940720"
+              class="id_中国社会科学院 id_复旦大学" stroke-opacity="1.0" stroke="#66c2a4"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -216.579620,-335.511627 L 176.605637,25.850571"
+              class="id_厦门大学 id_武汉大学" stroke-opacity="1.0" stroke="#81a58c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 12.068222,520.419189 L 186.137894,66.432663"
+              class="id_湖南师范大学 id_武汉大学" stroke-opacity="1.0" stroke="#e0453d"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -73.127968,457.895203 L -172.960129,224.836349"
+              class="id_湖南大学 id_中山大学（珠海）" stroke-opacity="1.0" stroke="#aa7b6a"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 794.133911,-96.839142 L 623.918213,-84.971092"
+              class="id_美国普渡大学 id_兰州大学" stroke-opacity="1.0" stroke="#e0453d"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 55.113190,-3.816917 L -90.237679,-23.755020"
+              class="id_中国社会科学院 id_上海交通大学" stroke-opacity="1.0" stroke="#66c2a4"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -477.533813,118.929916 L -251.176117,22.535904"
+              class="id_上海社会科学研究所 id_浙江大学" stroke-opacity="1.0" stroke="#e0453d"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -131.973068,356.565979 L -223.581299,35.697739"
+              class="id_山东大学 id_浙江大学" stroke-opacity="1.0" stroke="#8f9781"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -78.725906,78.464066 L -11.536180,-126.161728"
+              class="id_南京大学 id_中山大学" stroke-opacity="1.0" stroke="#8f9781"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -75.760880,-685.180725 L -55.281223,-490.400146"
+              class="id_上海社科院 id_华东师范大学" stroke-opacity="1.0" stroke="#e0453d"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -72.501205,457.650177 L -222.206161,35.258224"
+              class="id_湖南大学 id_浙江大学" stroke-opacity="1.0" stroke="#aa7b6a"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 414.741394,142.117981 L 218.124374,53.279232"
+              class="id_哈佛大学 id_武汉大学" stroke-opacity="1.0" stroke="#e0453d"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -383.996552,424.080414 L -203.085861,219.966980"
+              class="id_宾夕法尼亚大学 id_中山大学（珠海）" stroke-opacity="1.0"
+              stroke="#e0453d"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -73.589340,-265.270081 L -210.822739,-338.486603"
+              class="id_南开大学 id_厦门大学" stroke-opacity="1.0" stroke="#81a58c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 142.609894,297.401093 L 22.944475,60.250481"
+              class="id_全国老子与道学文化研究会 id_中国人民大学" stroke-opacity="1.0"
+              stroke="#e0453d"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -133.240982,-158.751602 C -108.440979,-183.551605 -108.440979,-133.951599 -133.240982,-158.751602"
+              class="id_北京大学" stroke-opacity="1.0" stroke="#288f5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 85.329933,201.752274 L 164.931198,-185.295868"
+              class="id_山西大学 id_复旦大学" stroke-opacity="1.0" stroke="#c56054"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 423.845978,-294.244049 L 185.854309,-209.367889"
+              class="id_瓦萨学院、武汉大学 id_复旦大学" stroke-opacity="1.0" stroke="#e0453d"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -184.182068,198.638672 C -134.182068,148.638672 -134.182068,248.638672 -184.182068,198.638672"
+              class="id_中山大学（珠海）" stroke-opacity="1.0" stroke="#c56054"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 4.854058,-129.046936 L 87.953491,120.224808"
+              class="id_中山大学 id_同济大学" stroke-opacity="1.0" stroke="#147d43"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -349.158173,-566.470764 L -243.805420,-371.308289"
+              class="id_吉林大学 id_厦门大学" stroke-opacity="1.0" stroke="#e0453d"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 444.040527,175.521729 L 217.399414,54.753616"
+              class="id_中科院 id_武汉大学" stroke-opacity="1.0" stroke="#e0453d"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -520.008728,27.879047 L -252.994583,14.630078"
+              class="id_中国美术学院 id_浙江大学" stroke-opacity="1.0" stroke="#e0453d"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -6.753821,-176.684647 L -50.832272,-456.502197"
+              class="id_中山大学 id_华东师范大学" stroke-opacity="1.0" stroke="#147d43"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 513.404114,-632.671753 L 413.143066,-478.599243"
+              class="id_大连理工大学 id_北京师范大学" stroke-opacity="1.0" stroke="#e0453d"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 216.385117,36.397274 L 594.613098,-79.532021"
+              class="id_武汉大学 id_兰州大学" stroke-opacity="1.0" stroke="#aa7b6a"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -316.279602,-196.551697 L -193.217178,171.608749"
+              class="id_中国科学技术大学 id_中山大学（珠海）" stroke-opacity="1.0"
+              stroke="#c56054"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -399.651794,-250.709152 L -148.270813,-163.939484"
+              class="id_北京外国语大学 id_北京大学" stroke-opacity="1.0" stroke="#e0453d"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -139.555359,-147.502670 L -218.615829,-6.658155"
+              class="id_北京大学 id_浙江大学" stroke-opacity="1.0" stroke="#288f5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 81.207497,136.824417 L -156.425049,192.173538"
+              class="id_同济大学 id_中山大学（珠海）" stroke-opacity="1.0" stroke="#c56054"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 564.865967,-615.452637 L 416.385986,-475.886475"
+              class="id_北京体育大学 id_北京师范大学" stroke-opacity="1.0" stroke="#e0453d"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 39.367836,-453.282379 L -209.550858,-358.566864"
+              class="id_南京师范大学 id_厦门大学" stroke-opacity="1.0" stroke="#c56054"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 416.302002,-470.969269 L 577.581848,-561.666382"
+              class="id_北京师范大学 id_中国艺术研究院" stroke-opacity="1.0" stroke="#aa7b6a"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -158.687637,199.171295 L -55.086823,201.335678"
+              class="id_中山大学（珠海） id_西安交大" stroke-opacity="1.0" stroke="#c56054"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 11.223147,58.224255 L -34.663120,187.239853"
+              class="id_中国人民大学 id_西安交大" stroke-opacity="1.0" stroke="#006d2c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -322.596130,-119.288231 L -30.379152,-149.542007"
+              class="id_东南大学 id_中山大学" stroke-opacity="1.0" stroke="#c56054"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -211.097733,20.529459 L 78.834770,129.018600"
+              class="id_浙江大学 id_同济大学" stroke-opacity="1.0" stroke="#3da074"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -326.566986,-109.939766 L -244.164307,-4.702465"
+              class="id_东南大学 id_浙江大学" stroke-opacity="1.0" stroke="#c56054"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 4.297401,39.046642 L -92.162552,-18.245937"
+              class="id_中国人民大学 id_上海交通大学" stroke-opacity="1.0" stroke="#006d2c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -437.719391,-517.017212 L -251.114731,-365.257141"
+              class="id_中国电建集团江西装备有限公司党委副书记 id_厦门大学" stroke-opacity="1.0"
+              stroke="#e0453d"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -236.403473,423.273010 L -190.635452,226.398422"
+              class="id_郑州大学 id_中山大学（珠海）" stroke-opacity="1.0" stroke="#e0453d"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 792.455933,-52.850048 L 623.743958,-81.423042"
+              class="id_云南师范大学 id_兰州大学" stroke-opacity="1.0" stroke="#e0453d"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 241.286621,208.375778 L 201.926468,67.177490"
+              class="id_中共中央党校 id_武汉大学" stroke-opacity="1.0" stroke="#c56054"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 178.575729,57.661369 L 103.583801,124.397858"
+              class="id_武汉大学 id_同济大学" stroke-opacity="1.0" stroke="#aa7b6a"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 597.028931,-85.261993 L 24.502979,-149.315582"
+              class="id_兰州大学 id_中山大学" stroke-opacity="1.0" stroke="#c56054"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 13.904011,32.702961 L -51.235863,-456.443542"
+              class="id_中国人民大学 id_华东师范大学" stroke-opacity="1.0" stroke="#006d2c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -474.982147,19.079037 L -253.016953,14.012435"
+              class="id_台湾中研院 id_浙江大学" stroke-opacity="1.0" stroke="#e0453d"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -124.092911,357.428131 L -47.072334,215.111099"
+              class="id_山东大学 id_西安交大" stroke-opacity="1.0" stroke="#8f9781"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 178.862030,-214.584808 L 391.637726,-450.617096"
+              class="id_复旦大学 id_北京师范大学" stroke-opacity="1.0" stroke="#51b18b"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -202.750519,461.847626 L -186.187653,227.068024"
+              class="id_深圳大学 id_中山大学（珠海）" stroke-opacity="1.0" stroke="#e0453d"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -122.386055,374.743408 L -1.805655,520.079651"
+              class="id_山东大学 id_湖南师范大学" stroke-opacity="1.0" stroke="#8f9781"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -66.978394,-250.168274 L -176.980927,171.063431"
+              class="id_南开大学 id_中山大学（珠海）" stroke-opacity="1.0" stroke="#81a58c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 72.727898,211.511551 L -155.717773,200.064926"
+              class="id_山西大学 id_中山大学（珠海）" stroke-opacity="1.0" stroke="#c56054"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -89.749519,97.136887 L -164.769257,177.772614"
+              class="id_南京大学 id_中山大学（珠海）" stroke-opacity="1.0" stroke="#8f9781"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 57.263382,-8.882117 L -120.744499,-148.920639"
+              class="id_中国社会科学院 id_北京大学" stroke-opacity="1.0" stroke="#66c2a4"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 287.480164,-184.642334 L -91.176498,-31.271332"
+              class="id_首都师范大学 id_上海交通大学" stroke-opacity="1.0" stroke="#8f9781"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -222.465759,-331.011536 L -140.553879,-172.870087"
+              class="id_厦门大学 id_北京大学" stroke-opacity="1.0" stroke="#81a58c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 386.719330,188.417023 L 215.226639,58.146351"
+              class="id_浙江师范大学 id_武汉大学" stroke-opacity="1.0" stroke="#e0453d"/>
+    </g>
+    <g id="arrows">
+        <polyline fill="#66c2a4" fill-opacity="1.0" class="id_清华大学 id_中山大学"
+                  points="20.683306,-145.473007 43.787434,-149.650238 37.887562,-129.496033"
+                  stroke="none"/>
+        <polyline fill="#3da074" fill-opacity="1.0" class="id_浙江大学 id_中山大学（珠海）"
+                  points="-190.297806,173.882904 -203.352142,158.566757 -185.877472,154.249771"
+                  stroke="none"/>
+        <polyline fill="#66c2a4" fill-opacity="1.0" class="id_清华大学 id_武汉大学"
+                  points="182.543060,24.636642 164.908035,14.940975 179.718582,4.711224"
+                  stroke="none"/>
+        <polyline fill="#006d2c" fill-opacity="1.0"
+                  class="id_中国人民大学 id_中山大学（珠海）"
+                  points="-163.927948,183.146057 -156.570419,168.075668 -147.457108,179.989853"
+                  stroke="none"/>
+        <polyline fill="#66c2a4" fill-opacity="1.0" class="id_中国社会科学院 id_武汉大学"
+                  points="174.201950,35.581074 160.894516,37.287560 164.852310,25.959015"
+                  stroke="none"/>
+        <polyline fill="#006d2c" fill-opacity="1.0" class="id_中国人民大学 id_中山大学"
+                  points="-0.630474,-127.891617 6.463064,-116.503838 -5.484581,-115.384117"
+                  stroke="none"/>
+        <polyline fill="#147d43" fill-opacity="1.0" class="id_中山大学 id_厦门大学"
+                  points="-216.123764,-336.023956 -206.367828,-333.559845 -212.241516,-326.740753"
+                  stroke="none"/>
+        <polyline fill="#147d43" fill-opacity="1.0" class="id_中山大学 id_武汉大学"
+                  points="179.350723,27.317274 169.782379,24.203281 176.100922,17.794209"
+                  stroke="none"/>
+        <polyline fill="#66c2a4" fill-opacity="1.0"
+                  class="id_中国社会科学院 id_中山大学（珠海）"
+                  points="-164.319305,182.647400 -160.130905,173.498245 -154.486923,180.508621"
+                  stroke="none"/>
+        <polyline fill="#006d2c" fill-opacity="1.0" class="id_中国人民大学 id_武汉大学"
+                  points="172.962631,43.259651 164.036087,47.903667 163.891495,38.904827"
+                  stroke="none"/>
+        <polyline fill="#e0453d" fill-opacity="1.0" class="id_剑桥大学 id_浙江大学"
+                  points="-249.291092,18.859831 -256.760132,25.602489 -259.166626,16.930195"
+                  stroke="none"/>
+        <polyline fill="#e0453d" fill-opacity="1.0" class="id_中国科学院大学 id_厦门大学"
+                  points="-247.322968,-364.987030 -256.868744,-368.169464 -250.504501,-374.533112"
+                  stroke="none"/>
+        <polyline fill="#aa7b6a" fill-opacity="1.0" class="id_湖南大学 id_湖南师范大学"
+                  points="-1.440333,523.934082 -11.233286,521.621521 -5.466028,514.712219"
+                  stroke="none"/>
+        <polyline fill="#147d43" fill-opacity="1.0" class="id_中山大学 id_中山大学（珠海）"
+                  points="-172.482437,175.981033 -172.351578,165.919586 -164.354752,170.048859"
+                  stroke="none"/>
+        <polyline fill="#51b18b" fill-opacity="1.0" class="id_复旦大学 id_中山大学（珠海）"
+                  points="-167.358551,179.475708 -164.802536,169.743454 -158.039139,175.681168"
+                  stroke="none"/>
+        <polyline fill="#e0453d" fill-opacity="1.0" class="id_哥本哈根大学 id_浙江大学"
+                  points="-250.022446,13.630154 -258.989777,18.194902 -259.054657,9.195135"
+                  stroke="none"/>
+        <polyline fill="#3da074" fill-opacity="1.0" class="id_浙江大学 id_南京大学"
+                  points="-92.072121,83.957512 -98.780052,83.897568 -96.048927,78.555191"
+                  stroke="none"/>
+        <polyline fill="#51b18b" fill-opacity="1.0" class="id_复旦大学 id_中山大学"
+                  points="20.660217,-159.373962 25.560526,-163.955124 27.265326,-158.202408"
+                  stroke="none"/>
+        <polyline fill="#3da074" fill-opacity="1.0" class="id_浙江大学 id_中山大学"
+                  points="-22.788252,-137.870621 -25.862768,-131.908463 -29.402689,-136.752945"
+                  stroke="none"/>
+        <polyline fill="#8f9781" fill-opacity="1.0"
+                  class="id_上海交通大学 id_中山大学（珠海）"
+                  points="-175.677643,174.598602 -176.504852,167.941605 -170.848358,169.942642"
+                  stroke="none"/>
+        <polyline fill="#8f9781" fill-opacity="1.0" class="id_首都师范大学 id_北京师范大学"
+                  points="398.233887,-450.035248 398.890656,-443.359283 393.287140,-445.504242"
+                  stroke="none"/>
+        <polyline fill="#3da074" fill-opacity="1.0" class="id_浙江大学 id_武汉大学"
+                  points="173.012726,41.370304 166.819916,43.948906 167.234161,37.963226"
+                  stroke="none"/>
+        <polyline fill="#288f5c" fill-opacity="1.0" class="id_北京大学 id_武汉大学"
+                  points="176.241684,31.286331 169.558868,30.703194 172.698517,25.590202"
+                  stroke="none"/>
+        <polyline fill="#e0453d" fill-opacity="1.0" class="id_苏州大学 id_武汉大学"
+                  points="215.871765,50.893772 222.549438,50.254524 220.389771,55.852364"
+                  stroke="none"/>
+        <polyline fill="#288f5c" fill-opacity="1.0" class="id_北京大学 id_中山大学"
+                  points="-27.496582,-153.584839 -33.635841,-150.881226 -33.343025,-156.874084"
+                  stroke="none"/>
+        <polyline fill="#8f9781" fill-opacity="1.0" class="id_上海交通大学 id_厦门大学"
+                  points="-224.468170,-330.102234 -219.480713,-325.616089 -225.064606,-323.420593"
+                  stroke="none"/>
+        <polyline fill="#288f5c" fill-opacity="1.0" class="id_北京大学 id_中山大学（珠海）"
+                  points="-180.583755,173.393829 -182.707092,167.030533 -176.767120,167.877182"
+                  stroke="none"/>
+        <polyline fill="#8f9781" fill-opacity="1.0" class="id_山东大学 id_中山大学（珠海）"
+                  points="-176.237289,222.869446 -171.517258,227.636124 -177.218613,229.505478"
+                  stroke="none"/>
+        <polyline fill="#81a58c" fill-opacity="1.0" class="id_华东师范大学 id_复旦大学"
+                  points="158.901367,-215.039490 152.773651,-217.769165 157.408478,-221.579468"
+                  stroke="none"/>
+        <polyline fill="#66c2a4" fill-opacity="1.0" class="id_清华大学 id_厦门大学"
+                  points="-214.938660,-337.532166 -208.313293,-336.481140 -211.804230,-331.601257"
+                  stroke="none"/>
+        <polyline fill="#51b18b" fill-opacity="1.0" class="id_复旦大学 id_浙江大学"
+                  points="-212.264633,3.883584 -208.426575,-1.618171 -205.560394,3.652978"
+                  stroke="none"/>
+        <polyline fill="#81a58c" fill-opacity="1.0" class="id_华东师范大学 id_南京师范大学"
+                  points="38.738708,-459.220367 32.352654,-457.166534 33.263992,-463.096893"
+                  stroke="none"/>
+        <polyline fill="#e0453d" fill-opacity="1.0"
+                  class="id_江苏宏德文化初版基金会 id_厦门大学"
+                  points="-247.185547,-365.123199 -253.529877,-367.302521 -249.248688,-371.506256"
+                  stroke="none"/>
+        <polyline fill="#e0453d" fill-opacity="1.0"
+                  class="id_普林斯顿大学 id_中山大学（珠海）"
+                  points="-198.518234,219.727158 -199.410446,226.375763 -204.372452,223.002563"
+                  stroke="none"/>
+        <polyline fill="#81a58c" fill-opacity="1.0" class="id_南开大学 id_中山大学"
+                  points="-15.088712,-173.767136 -20.662914,-177.499176 -15.447589,-180.465729"
+                  stroke="none"/>
+        <polyline fill="#e0453d" fill-opacity="1.0" class="id_中国科学院 id_武汉大学"
+                  points="213.132675,55.934265 219.751205,57.027458 216.229233,61.885002"
+                  stroke="none"/>
+        <polyline fill="#e0453d" fill-opacity="1.0" class="id_华侨大学 id_厦门大学"
+                  points="-211.030838,-351.632690 -205.290665,-355.104065 -204.809616,-349.123352"
+                  stroke="none"/>
+        <polyline fill="#147d43" fill-opacity="1.0" class="id_中山大学 id_北京大学"
+                  points="-120.356354,-158.122055 -114.217094,-160.825668 -114.509911,-154.832809"
+                  stroke="none"/>
+        <polyline fill="#147d43" fill-opacity="1.0" class="id_中山大学 id_浙江大学"
+                  points="-213.693970,1.626557 -210.619461,-4.335601 -207.079544,0.508876"
+                  stroke="none"/>
+        <polyline fill="#8f9781" fill-opacity="1.0" class="id_首都师范大学 id_复旦大学"
+                  points="183.826965,-201.557266 190.117569,-203.887161 189.465225,-197.922714"
+                  stroke="none"/>
+        <polyline fill="#8f9781" fill-opacity="1.0" class="id_南京大学 id_武汉大学"
+                  points="173.260315,46.543602 167.833511,50.486938 166.849564,44.568169"
+                  stroke="none"/>
+        <polyline fill="#8f9781" fill-opacity="1.0" class="id_上海交通大学 id_浙江大学"
+                  points="-210.743942,7.470762 -208.330246,5.141801 -207.432541,8.004343"
+                  stroke="none"/>
+        <polyline fill="#e0453d" fill-opacity="1.0"
+                  class="id_中央民族大学 id_兰州大学北京校友会"
+                  points="893.792236,2264.118896 896.020081,2261.611572 897.134827,2264.396729"
+                  stroke="none"/>
+        <polyline fill="#81a58c" fill-opacity="1.0" class="id_华东师范大学 id_厦门大学"
+                  points="-214.736084,-362.029633 -213.120056,-364.968781 -211.415161,-362.500275"
+                  stroke="none"/>
+        <polyline fill="#288f5c" fill-opacity="1.0" class="id_北京大学 id_华侨大学"
+                  points="-144.340485,-345.261505 -142.664917,-342.355896 -145.659607,-342.177673"
+                  stroke="none"/>
+        <polyline fill="#e0453d" fill-opacity="1.0"
+                  class="id_上海师范大学 id_中山大学（珠海）"
+                  points="-207.291931,209.417542 -209.376694,212.045044 -210.644791,209.326233"
+                  stroke="none"/>
+        <polyline fill="#aa7b6a" fill-opacity="1.0" class="id_中国政法大学 id_复旦大学"
+                  points="173.723175,-217.643723 173.310242,-220.972305 176.138275,-219.971237"
+                  stroke="none"/>
+        <polyline fill="#147d43" fill-opacity="1.0" class="id_中山大学 id_北京师范大学"
+                  points="391.820221,-454.823578 390.351074,-451.808319 388.526550,-454.189728"
+                  stroke="none"/>
+        <polyline fill="#aa7b6a" fill-opacity="1.0" class="id_中国政法大学 id_北京师范大学"
+                  points="390.787140,-456.364410 388.949951,-453.558228 387.439880,-456.150452"
+                  stroke="none"/>
+        <polyline fill="#81a58c" fill-opacity="1.0" class="id_厦门大学 id_中山大学（珠海）"
+                  points="-186.408539,173.236053 -188.164764,170.378479 -185.176208,170.116547"
+                  stroke="none"/>
+        <polyline fill="#288f5c" fill-opacity="1.0" class="id_北京大学 id_厦门大学"
+                  points="-222.465744,-331.011536 -219.754028,-329.037567 -222.417908,-327.657806"
+                  stroke="none"/>
+        <polyline fill="#e0453d" fill-opacity="1.0" class="id_澳门大学 id_华东师范大学"
+                  points="-51.428440,-487.341888 -52.472969,-490.529205 -49.505310,-490.089935"
+                  stroke="none"/>
+        <polyline fill="#288f5c" fill-opacity="1.0" class="id_北京大学 id_华东师范大学"
+                  points="-56.957336,-459.726074 -56.240372,-456.449493 -59.148422,-457.186554"
+                  stroke="none"/>
+        <polyline fill="#3da074" fill-opacity="1.0" class="id_浙江大学 id_北京大学"
+                  points="-139.555359,-147.502670 -139.715805,-144.152390 -142.331833,-145.620865"
+                  stroke="none"/>
+        <polyline fill="#c56054" fill-opacity="1.0"
+                  class="id_中国科学技术大学 id_华东师范大学"
+                  points="-63.448967,-463.409332 -64.505035,-460.225800 -66.629410,-462.344086"
+                  stroke="none"/>
+        <polyline fill="#e0453d" fill-opacity="1.0" class="id_台湾政治大学 id_复旦大学"
+                  points="181.806702,-210.975647 183.632507,-213.789276 185.153076,-211.203186"
+                  stroke="none"/>
+        <polyline fill="#e0453d" fill-opacity="1.0" class="id_四川大学 id_华东师范大学"
+                  points="-54.065353,-487.482269 -55.685863,-490.418915 -52.688335,-490.540680"
+                  stroke="none"/>
+        <polyline fill="#e0453d" fill-opacity="1.0" class="id_江苏省社会科学院 id_浙江大学"
+                  points="-249.481079,18.121067 -252.054260,20.272535 -252.746155,17.353415"
+                  stroke="none"/>
+        <polyline fill="#e0453d" fill-opacity="1.0" class="id_捷克科学院 id_武汉大学"
+                  points="212.267365,57.051109 215.535156,57.807102 213.623260,60.118938"
+                  stroke="none"/>
+        <polyline fill="#c56054" fill-opacity="1.0" class="id_华南师范大学 id_中山大学"
+                  points="20.200462,-143.997894 23.532116,-144.385300 22.509384,-141.565018"
+                  stroke="none"/>
+        <polyline fill="#006d2c" fill-opacity="1.0" class="id_中国人民大学 id_同济大学"
+                  points="84.919434,125.346436 81.818161,124.068909 84.080688,122.098892"
+                  stroke="none"/>
+        <polyline fill="#e0453d" fill-opacity="1.0" class="id_香港亚洲艺术文献库 id_复旦大学"
+                  points="183.743546,-205.522354 186.483765,-207.456589 186.935059,-204.490738"
+                  stroke="none"/>
+        <polyline fill="#e0453d" fill-opacity="1.0" class="id_德国哈根大学 id_中山大学"
+                  points="4.223102,-175.922607 3.659668,-179.229034 6.530193,-178.357208"
+                  stroke="none"/>
+        <polyline fill="#66c2a4" fill-opacity="1.0" class="id_清华大学 id_华东师范大学"
+                  points="-48.518486,-460.200592 -46.056507,-457.922729 -48.863590,-456.864319"
+                  stroke="none"/>
+        <polyline fill="#aa7b6a" fill-opacity="1.0" class="id_北京师范大学 id_南京师范大学"
+                  points="62.001087,-457.652618 64.973763,-459.206055 65.027443,-456.206543"
+                  stroke="none"/>
+        <polyline fill="#e0453d" fill-opacity="1.0" class="id_丹麦哥本哈根大学 id_浙江大学"
+                  points="-249.474152,18.150171 -252.044113,20.305466 -252.740372,17.387379"
+                  stroke="none"/>
+        <polyline fill="#66c2a4" fill-opacity="1.0" class="id_中国社会科学院 id_首都师范大学"
+                  points="289.195862,-181.716248 287.793457,-178.669388 285.916931,-181.010056"
+                  stroke="none"/>
+        <polyline fill="#c56054" fill-opacity="1.0" class="id_华南师范大学 id_武汉大学"
+                  points="213.546387,30.462234 215.190475,27.538712 216.871658,30.023392"
+                  stroke="none"/>
+        <polyline fill="#006d2c" fill-opacity="1.0" class="id_中国人民大学 id_北京师范大学"
+                  points="394.585846,-452.066681 393.962463,-448.771027 391.575317,-450.587982"
+                  stroke="none"/>
+        <polyline fill="#c56054" fill-opacity="1.0" class="id_中共中央党校 id_中国人民大学"
+                  points="26.176357,53.747452 29.474056,54.359962 27.664967,56.753120"
+                  stroke="none"/>
+        <polyline fill="#81a58c" fill-opacity="1.0" class="id_厦门大学 id_华侨大学"
+                  points="-156.697876,-356.002808 -159.567963,-354.267090 -159.808472,-357.257446"
+                  stroke="none"/>
+        <polyline fill="#e0453d" fill-opacity="1.0" class="id_芝加哥大学 id_中山大学（珠海）"
+                  points="-205.486420,212.652039 -207.168503,215.553879 -208.817123,213.047470"
+                  stroke="none"/>
+        <polyline fill="#e0453d" fill-opacity="1.0" class="id_中科大 id_北京师范大学"
+                  points="414.241699,-473.787292 415.413330,-476.930115 417.458923,-474.735718"
+                  stroke="none"/>
+        <polyline fill="#006d2c" fill-opacity="1.0" class="id_中国人民大学 id_厦门大学"
+                  points="-220.953995,-331.874695 -218.090134,-330.128754 -220.632431,-328.536041"
+                  stroke="none"/>
+        <polyline fill="#66c2a4" fill-opacity="1.0" class="id_中国社会科学院 id_厦门大学"
+                  points="-218.403336,-333.750305 -215.312302,-332.448181 -217.590439,-330.496216"
+                  stroke="none"/>
+        <polyline fill="#e0453d" fill-opacity="1.0"
+                  class="id_《江海学刊》，《文史哲》 id_中山大学（珠海）"
+                  points="-193.533340,222.362152 -193.238007,225.703232 -196.028992,224.603073"
+                  stroke="none"/>
+        <polyline fill="#e0453d" fill-opacity="1.0" class="id_中国社会学院 id_中山大学"
+                  points="8.685395,-174.071564 8.779011,-177.424362 11.423800,-176.008347"
+                  stroke="none"/>
+        <polyline fill="#e0453d" fill-opacity="1.0"
+                  class="id_宏德文化出版基金会理事长 id_厦门大学"
+                  points="-247.120148,-365.187134 -250.287598,-366.290436 -248.138000,-368.383087"
+                  stroke="none"/>
+        <polyline fill="#e0453d" fill-opacity="1.0" class="id_美国犹他大学 id_复旦大学"
+                  points="183.028519,-208.360474 185.350266,-210.781097 186.358078,-207.955444"
+                  stroke="none"/>
+        <polyline fill="#e0453d" fill-opacity="1.0" class="id_河南师范大学 id_湖南师范大学"
+                  points="9.720505,543.464539 11.687702,546.181213 8.727510,546.668274"
+                  stroke="none"/>
+        <polyline fill="#81a58c" fill-opacity="1.0" class="id_南开大学 id_华东师范大学"
+                  points="-54.209061,-459.312073 -52.863319,-456.239777 -55.859451,-456.392120"
+                  stroke="none"/>
+        <polyline fill="#66c2a4" fill-opacity="1.0" class="id_清华大学 id_西安交大"
+                  points="-35.717999,190.048889 -36.140198,186.721451 -33.309380,187.714676"
+                  stroke="none"/>
+        <polyline fill="#81a58c" fill-opacity="1.0" class="id_华东师范大学 id_中山大学"
+                  points="-6.753821,-176.684647 -8.702370,-179.414688 -5.738913,-179.881516"
+                  stroke="none"/>
+        <polyline fill="#e0453d" fill-opacity="1.0" class="id_牛津大学 id_中山大学（珠海）"
+                  points="-199.296539,219.176514 -199.866592,222.481812 -202.282822,220.703644"
+                  stroke="none"/>
+        <polyline fill="#8f9781" fill-opacity="1.0" class="id_上海交通大学 id_西安交大"
+                  points="-43.171032,189.829010 -45.437855,187.356873 -42.553410,186.532257"
+                  stroke="none"/>
+        <polyline fill="#e0453d" fill-opacity="1.0" class="id_新加坡国立大学 id_浙江大学"
+                  points="-249.841721,10.792080 -253.015656,11.876582 -252.613678,8.903634"
+                  stroke="none"/>
+        <polyline fill="#c56054" fill-opacity="1.0" class="id_同济大学 id_首都师范大学"
+                  points="292.041962,-179.164474 291.696472,-175.828232 289.165649,-177.439102"
+                  stroke="none"/>
+        <polyline fill="#51b18b" fill-opacity="1.0" class="id_复旦大学 id_武汉大学"
+                  points="192.779495,20.830954 190.966492,18.009075 193.949188,17.687420"
+                  stroke="none"/>
+        <polyline fill="#8f9781" fill-opacity="1.0" class="id_南京大学 id_浙江大学"
+                  points="-212.026031,22.634577 -208.672058,22.664549 -210.037628,25.335733"
+                  stroke="none"/>
+        <polyline fill="#e0453d" fill-opacity="1.0" class="id_慕尼黑大学 id_中山大学（珠海）"
+                  points="-194.074799,222.141510 -193.856125,225.488480 -196.621170,224.324631"
+                  stroke="none"/>
+        <polyline fill="#c56054" fill-opacity="1.0" class="id_南京师范大学 id_浙江大学"
+                  points="-219.644547,-3.787928 -219.399506,-7.133065 -216.821411,-5.598972"
+                  stroke="none"/>
+        <polyline fill="#288f5c" fill-opacity="1.0" class="id_北京大学 id_首都师范大学"
+                  points="286.653107,-188.215698 283.765472,-186.509384 283.555450,-189.502029"
+                  stroke="none"/>
+        <polyline fill="#e0453d" fill-opacity="1.0" class="id_云南大学 id_华东师范大学"
+                  points="-57.430489,-486.932983 -59.708553,-489.394806 -56.827892,-490.232513"
+                  stroke="none"/>
+        <polyline fill="#e0453d" fill-opacity="1.0"
+                  class="id_美国加州州立大学富乐敦分校 id_中山大学（珠海）"
+                  points="-203.272324,215.544647 -204.523758,218.656555 -206.512711,216.410645"
+                  stroke="none"/>
+        <polyline fill="#e0453d" fill-opacity="1.0"
+                  class="id_俄罗斯科学院 id_中山大学（珠海）"
+                  points="-205.461914,212.689224 -207.138916,215.593979 -208.791931,213.090469"
+                  stroke="none"/>
+        <polyline fill="#006d2c" fill-opacity="1.0" class="id_中国人民大学 id_浙江大学"
+                  points="-209.994644,16.106657 -206.824646,15.010716 -207.215881,17.985094"
+                  stroke="none"/>
+        <polyline fill="#e0453d" fill-opacity="1.0" class="id_华东政法大学 id_中山大学"
+                  points="8.738235,-174.043198 8.840025,-177.395752 11.481356,-175.973297"
+                  stroke="none"/>
+        <polyline fill="#51b18b" fill-opacity="1.0" class="id_复旦大学 id_南京师范大学"
+                  points="55.239666,-446.835785 57.865425,-444.748810 55.145554,-443.483002"
+                  stroke="none"/>
+        <polyline fill="#66c2a4" fill-opacity="1.0" class="id_清华大学 id_首都师范大学"
+                  points="287.027496,-185.990067 284.521179,-183.761078 283.740479,-186.657715"
+                  stroke="none"/>
+        <polyline fill="#e0453d" fill-opacity="1.0" class="id_卫斯理大学 id_中山大学（珠海）"
+                  points="-202.052063,216.829697 -203.084351,220.020996 -205.224457,217.918640"
+                  stroke="none"/>
+        <polyline fill="#81a58c" fill-opacity="1.0" class="id_南开大学 id_武汉大学"
+                  points="180.725876,26.035759 177.635681,24.731667 179.915039,22.781143"
+                  stroke="none"/>
+        <polyline fill="#e0453d" fill-opacity="1.0" class="id_华中科技大学 id_武汉大学"
+                  points="216.591003,48.694538 219.878433,48.029125 219.095779,50.925236"
+                  stroke="none"/>
+        <polyline fill="#aa7b6a" fill-opacity="1.0" class="id_中国政法大学 id_浙江大学"
+                  points="-214.389069,0.729595 -213.022491,-2.333487 -211.118652,-0.014993"
+                  stroke="none"/>
+        <polyline fill="#3da074" fill-opacity="1.0" class="id_浙江大学 id_复旦大学"
+                  points="155.176239,-195.911942 153.257202,-193.161072 151.824097,-195.796631"
+                  stroke="none"/>
+        <polyline fill="#147d43" fill-opacity="1.0" class="id_中山大学 id_华侨大学"
+                  points="-138.360123,-347.332031 -135.416565,-345.724091 -137.880371,-344.012421"
+                  stroke="none"/>
+        <polyline fill="#66c2a4" fill-opacity="1.0" class="id_清华大学 id_华侨大学"
+                  points="-136.881500,-348.550262 -133.714996,-347.444214 -135.866425,-345.353455"
+                  stroke="none"/>
+        <polyline fill="#e0453d" fill-opacity="1.0"
+                  class="id_新华网浙江分公司总经理 id_厦门大学"
+                  points="-250.755524,-360.493317 -254.104446,-360.679474 -252.615952,-363.284149"
+                  stroke="none"/>
+        <polyline fill="#288f5c" fill-opacity="1.0" class="id_北京大学 id_西安交大"
+                  points="-42.877369,189.748978 -45.082329,187.221512 -42.178360,186.468521"
+                  stroke="none"/>
+        <polyline fill="#51b18b" fill-opacity="1.0" class="id_复旦大学 id_北京大学"
+                  points="-120.478729,-160.631714 -117.729378,-162.552917 -117.292137,-159.584961"
+                  stroke="none"/>
+        <polyline fill="#147d43" fill-opacity="1.0" class="id_中山大学 id_上海交通大学"
+                  points="-97.467369,-34.868851 -96.755600,-38.146561 -94.418137,-36.266068"
+                  stroke="none"/>
+        <polyline fill="#e0453d" fill-opacity="1.0" class="id_陕西师范大学 id_复旦大学"
+                  points="180.088943,-213.344910 181.345657,-216.454681 183.330795,-214.205414"
+                  stroke="none"/>
+        <polyline fill="#8f9781" fill-opacity="1.0" class="id_首都师范大学 id_兰州大学"
+                  points="597.587585,-87.773956 594.265076,-87.314636 595.226624,-90.156372"
+                  stroke="none"/>
+        <polyline fill="#3da074" fill-opacity="1.0" class="id_浙江大学 id_华东师范大学"
+                  points="-58.296883,-460.137421 -57.908691,-456.805847 -60.729218,-457.827942"
+                  stroke="none"/>
+        <polyline fill="#e0453d" fill-opacity="1.0" class="id_韩国大学 id_中山大学（珠海）"
+                  points="-197.369568,220.463882 -197.637222,223.807297 -200.204880,222.255814"
+                  stroke="none"/>
+        <polyline fill="#e0453d" fill-opacity="1.0" class="id_商务印书馆 id_中山大学（珠海）"
+                  points="-196.787201,220.805328 -196.966232,224.154663 -199.574081,222.671692"
+                  stroke="none"/>
+        <polyline fill="#e0453d" fill-opacity="1.0"
+                  class="id_中盐金坛盐化有限责任公司 id_厦门大学"
+                  points="-245.295944,-366.771759 -248.318054,-368.226654 -245.945282,-370.062408"
+                  stroke="none"/>
+        <polyline fill="#e0453d" fill-opacity="1.0" class="id_贵州大学 id_中山大学（珠海）"
+                  points="-189.537292,223.570007 -188.700760,226.818130 -191.633865,226.188095"
+                  stroke="none"/>
+        <polyline fill="#e0453d" fill-opacity="1.0" class="id_中央社会主义学院 id_武汉大学"
+                  points="209.683807,59.692627 212.780945,60.980145 210.512085,62.942852"
+                  stroke="none"/>
+        <polyline fill="#006d2c" fill-opacity="1.0" class="id_中国人民大学 id_复旦大学"
+                  points="160.609024,-190.184158 160.316788,-186.842804 157.760605,-188.413116"
+                  stroke="none"/>
+        <polyline fill="#66c2a4" fill-opacity="1.0" class="id_中国社会科学院 id_复旦大学"
+                  points="161.630020,-189.609573 161.594315,-186.255661 158.925461,-187.625778"
+                  stroke="none"/>
+        <polyline fill="#81a58c" fill-opacity="1.0" class="id_厦门大学 id_武汉大学"
+                  points="178.814468,27.880619 175.590607,26.954983 177.620667,24.746159"
+                  stroke="none"/>
+        <polyline fill="#e0453d" fill-opacity="1.0" class="id_湖南师范大学 id_武汉大学"
+                  points="187.211929,63.631512 187.538467,66.969681 184.737320,65.895645"
+                  stroke="none"/>
+        <polyline fill="#aa7b6a" fill-opacity="1.0" class="id_湖南大学 id_中山大学（珠海）"
+                  points="-174.141388,222.078690 -171.581299,224.245728 -174.338959,225.426971"
+                  stroke="none"/>
+        <polyline fill="#e0453d" fill-opacity="1.0" class="id_美国普渡大学 id_兰州大学"
+                  points="620.925476,-84.762428 623.813904,-86.467461 624.022522,-83.474724"
+                  stroke="none"/>
+        <polyline fill="#66c2a4" fill-opacity="1.0" class="id_中国社会科学院 id_上海交通大学"
+                  points="-93.209846,-24.162720 -90.033829,-25.241104 -90.441528,-22.268936"
+                  stroke="none"/>
+        <polyline fill="#e0453d" fill-opacity="1.0" class="id_上海社会科学研究所 id_浙江大学"
+                  points="-248.415970,21.360498 -250.588409,23.915979 -251.763824,21.155828"
+                  stroke="none"/>
+        <polyline fill="#8f9781" fill-opacity="1.0" class="id_山东大学 id_浙江大学"
+                  points="-224.404892,32.813004 -222.138931,35.285942 -225.023666,36.109535"
+                  stroke="none"/>
+        <polyline fill="#8f9781" fill-opacity="1.0" class="id_南京大学 id_中山大学"
+                  points="-10.600279,-129.012009 -10.111040,-125.693779 -12.961319,-126.629677"
+                  stroke="none"/>
+        <polyline fill="#e0453d" fill-opacity="1.0" class="id_上海社科院 id_华东师范大学"
+                  points="-54.967525,-487.416595 -56.772999,-490.243286 -53.789448,-490.557007"
+                  stroke="none"/>
+        <polyline fill="#aa7b6a" fill-opacity="1.0" class="id_湖南大学 id_浙江大学"
+                  points="-223.208344,32.430573 -220.792328,34.757133 -223.619995,35.759315"
+                  stroke="none"/>
+        <polyline fill="#e0453d" fill-opacity="1.0" class="id_哈佛大学 id_武汉大学"
+                  points="215.390488,52.043964 218.742004,51.912292 217.506744,54.646172"
+                  stroke="none"/>
+        <polyline fill="#e0453d" fill-opacity="1.0"
+                  class="id_宾夕法尼亚大学 id_中山大学（珠海）"
+                  points="-201.095993,217.721893 -201.963318,220.961914 -204.208405,218.972046"
+                  stroke="none"/>
+        <polyline fill="#81a58c" fill-opacity="1.0" class="id_南开大学 id_厦门大学"
+                  points="-213.469589,-339.898743 -210.116669,-339.810028 -211.528809,-337.163177"
+                  stroke="none"/>
+        <polyline fill="#e0453d" fill-opacity="1.0"
+                  class="id_全国老子与道学文化研究会 id_中国人民大学"
+                  points="21.592995,57.572140 24.283646,59.574741 21.605305,60.926220"
+                  stroke="none"/>
+        <polyline fill="#c56054" fill-opacity="1.0" class="id_山西大学 id_复旦大学"
+                  points="165.535538,-188.234360 166.400452,-184.993698 163.461945,-185.598038"
+                  stroke="none"/>
+        <polyline fill="#e0453d" fill-opacity="1.0" class="id_瓦萨学院、武汉大学 id_复旦大学"
+                  points="183.028625,-208.360153 185.350433,-210.780731 186.358185,-207.955048"
+                  stroke="none"/>
+        <polyline fill="#147d43" fill-opacity="1.0" class="id_中山大学 id_同济大学"
+                  points="88.902267,123.070831 86.530479,120.699196 89.376503,119.750420"
+                  stroke="none"/>
+        <polyline fill="#e0453d" fill-opacity="1.0" class="id_吉林大学 id_厦门大学"
+                  points="-242.380341,-368.668365 -245.125381,-370.595734 -242.485458,-372.020844"
+                  stroke="none"/>
+        <polyline fill="#e0453d" fill-opacity="1.0" class="id_中科院 id_武汉大学"
+                  points="214.751846,53.342827 218.104813,53.429829 216.694016,56.077404"
+                  stroke="none"/>
+        <polyline fill="#e0453d" fill-opacity="1.0" class="id_中国美术学院 id_浙江大学"
+                  points="-249.998276,14.481404 -252.920242,16.128235 -253.068924,13.131922"
+                  stroke="none"/>
+        <polyline fill="#147d43" fill-opacity="1.0" class="id_中山大学 id_华东师范大学"
+                  points="-51.299091,-459.465637 -49.350544,-456.735596 -52.313999,-456.268799"
+                  stroke="none"/>
+        <polyline fill="#e0453d" fill-opacity="1.0" class="id_大连理工大学 id_北京师范大学"
+                  points="411.506805,-476.084747 411.885834,-479.417389 414.400299,-477.781097"
+                  stroke="none"/>
+        <polyline fill="#aa7b6a" fill-opacity="1.0" class="id_武汉大学 id_兰州大学"
+                  points="597.481384,-80.411171 595.052673,-78.097878 594.173523,-80.966164"
+                  stroke="none"/>
+        <polyline fill="#c56054" fill-opacity="1.0"
+                  class="id_中国科学技术大学 id_中山大学（珠海）"
+                  points="-192.266113,174.454010 -194.639801,172.084274 -191.794556,171.133224"
+                  stroke="none"/>
+        <polyline fill="#e0453d" fill-opacity="1.0" class="id_北京外国语大学 id_北京大学"
+                  points="-145.434998,-162.960632 -148.760239,-162.521576 -147.781387,-165.357391"
+                  stroke="none"/>
+        <polyline fill="#288f5c" fill-opacity="1.0" class="id_北京大学 id_浙江大学"
+                  points="-220.084290,-4.042124 -219.923843,-7.392386 -217.307816,-5.923925"
+                  stroke="none"/>
+        <polyline fill="#c56054" fill-opacity="1.0" class="id_同济大学 id_中山大学（珠海）"
+                  points="-159.346848,192.854080 -156.765320,190.712646 -156.084778,193.634430"
+                  stroke="none"/>
+        <polyline fill="#e0453d" fill-opacity="1.0" class="id_北京体育大学 id_北京师范大学"
+                  points="414.200073,-473.831787 415.358643,-476.979431 417.413330,-474.793518"
+                  stroke="none"/>
+        <polyline fill="#c56054" fill-opacity="1.0" class="id_南京师范大学 id_厦门大学"
+                  points="-212.354736,-357.499969 -210.084305,-359.968811 -209.017410,-357.164917"
+                  stroke="none"/>
+        <polyline fill="#aa7b6a" fill-opacity="1.0" class="id_北京师范大学 id_中国艺术研究院"
+                  points="580.196716,-563.136902 578.317078,-560.358948 576.846619,-562.973816"
+                  stroke="none"/>
+        <polyline fill="#c56054" fill-opacity="1.0" class="id_中山大学（珠海） id_西安交大"
+                  points="-52.087479,201.398331 -55.118153,202.835358 -55.055492,199.835999"
+                  stroke="none"/>
+        <polyline fill="#006d2c" fill-opacity="1.0" class="id_中国人民大学 id_西安交大"
+                  points="-35.668423,190.066406 -36.076393,186.737198 -33.249847,187.742508"
+                  stroke="none"/>
+        <polyline fill="#c56054" fill-opacity="1.0" class="id_东南大学 id_中山大学"
+                  points="-27.395102,-149.850952 -30.224680,-148.049988 -30.533625,-151.034027"
+                  stroke="none"/>
+        <polyline fill="#3da074" fill-opacity="1.0" class="id_浙江大学 id_同济大学"
+                  points="81.644508,130.069962 78.309082,130.423462 79.360458,127.613731"
+                  stroke="none"/>
+        <polyline fill="#c56054" fill-opacity="1.0" class="id_东南大学 id_浙江大学"
+                  points="-242.314789,-2.340419 -245.345337,-3.777703 -242.983276,-5.627227"
+                  stroke="none"/>
+        <polyline fill="#006d2c" fill-opacity="1.0" class="id_中国人民大学 id_上海交通大学"
+                  points="-94.741890,-19.777939 -91.396553,-19.535604 -92.928551,-16.956270"
+                  stroke="none"/>
+        <polyline fill="#e0453d" fill-opacity="1.0"
+                  class="id_中国电建集团江西装备有限公司党委副书记 id_厦门大学"
+                  points="-248.787262,-363.364288 -252.061157,-364.093414 -250.168304,-366.420868"
+                  stroke="none"/>
+        <polyline fill="#e0453d" fill-opacity="1.0" class="id_郑州大学 id_中山大学（珠海）"
+                  points="-189.956161,223.476349 -189.174408,226.738068 -192.096497,226.058777"
+                  stroke="none"/>
+        <polyline fill="#e0453d" fill-opacity="1.0" class="id_云南师范大学 id_兰州大学"
+                  points="620.786072,-81.923988 623.994446,-82.901985 623.493469,-79.944099"
+                  stroke="none"/>
+        <polyline fill="#c56054" fill-opacity="1.0" class="id_中共中央党校 id_武汉大学"
+                  points="201.120911,64.287666 203.371384,66.774712 200.481552,67.580269"
+                  stroke="none"/>
+        <polyline fill="#aa7b6a" fill-opacity="1.0" class="id_武汉大学 id_同济大学"
+                  points="101.342720,126.392235 102.586617,123.277313 104.580986,125.518402"
+                  stroke="none"/>
+        <polyline fill="#c56054" fill-opacity="1.0" class="id_兰州大学 id_中山大学"
+                  points="21.521582,-149.649139 24.669758,-150.806274 24.336201,-147.824890"
+                  stroke="none"/>
+        <polyline fill="#006d2c" fill-opacity="1.0" class="id_中国人民大学 id_华东师范大学"
+                  points="-51.631878,-459.417267 -49.748989,-456.641541 -52.722736,-456.245544"
+                  stroke="none"/>
+        <polyline fill="#e0453d" fill-opacity="1.0" class="id_台湾中研院 id_浙江大学"
+                  points="-250.017731,13.943974 -252.982727,15.512045 -253.051178,12.512825"
+                  stroke="none"/>
+        <polyline fill="#8f9781" fill-opacity="1.0" class="id_山东大学 id_西安交大"
+                  points="-45.644459,212.472687 -45.753132,215.825043 -48.391537,214.397156"
+                  stroke="none"/>
+        <polyline fill="#51b18b" fill-opacity="1.0" class="id_复旦大学 id_北京师范大学"
+                  points="393.646423,-452.845337 392.751862,-449.612732 390.523590,-451.621460"
+                  stroke="none"/>
+        <polyline fill="#e0453d" fill-opacity="1.0" class="id_深圳大学 id_中山大学（珠海）"
+                  points="-185.976547,224.075455 -184.691376,227.173584 -187.683929,226.962463"
+                  stroke="none"/>
+        <polyline fill="#8f9781" fill-opacity="1.0" class="id_山东大学 id_湖南师范大学"
+                  points="0.109896,522.388489 -2.960067,521.037415 -0.651243,519.121887"
+                  stroke="none"/>
+        <polyline fill="#81a58c" fill-opacity="1.0" class="id_南开大学 id_中山大学（珠海）"
+                  points="-177.738953,173.966095 -178.432251,170.684418 -175.529602,171.442444"
+                  stroke="none"/>
+        <polyline fill="#c56054" fill-opacity="1.0" class="id_山西大学 id_中山大学（珠海）"
+                  points="-158.714020,199.914795 -155.642700,198.566803 -155.792847,201.563049"
+                  stroke="none"/>
+        <polyline fill="#8f9781" fill-opacity="1.0" class="id_南京大学 id_中山大学（珠海）"
+                  points="-166.812714,179.969040 -165.867477,176.750885 -163.671036,178.794342"
+                  stroke="none"/>
+        <polyline fill="#66c2a4" fill-opacity="1.0" class="id_中国社会科学院 id_北京大学"
+                  points="-123.102325,-150.775543 -119.817047,-150.099548 -121.671951,-147.741730"
+                  stroke="none"/>
+        <polyline fill="#8f9781" fill-opacity="1.0" class="id_首都师范大学 id_上海交通大学"
+                  points="-93.957069,-30.145088 -91.739616,-32.661617 -90.613380,-29.881046"
+                  stroke="none"/>
+        <polyline fill="#81a58c" fill-opacity="1.0" class="id_厦门大学 id_北京大学"
+                  points="-139.174088,-170.206223 -141.885818,-172.180191 -139.221939,-173.559982"
+                  stroke="none"/>
+        <polyline fill="#e0453d" fill-opacity="1.0" class="id_浙江师范大学 id_武汉大学"
+                  points="212.837723,56.331665 216.133987,56.951893 214.319290,59.340809"
+                  stroke="none"/>
+    </g>
+    <g id="nodes">
+        <circle fill-opacity="1.0" fill="#147d43" r="24.1" cx="-2.9258919"
+                class="id_中山大学" cy="-152.3843" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#006d2c" r="12.7" cx="15.646478"
+                class="id_中国人民大学" cy="45.78745" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#3da074" r="19.599998" cx="-229.92297"
+                class="id_浙江大学" cy="13.485289" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#66c2a4" r="10.0" cx="76.29062"
+                class="id_清华大学" cy="-129.1947" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#81a58c" r="20.8" cx="-232.26227"
+                class="id_厦门大学" cy="-349.925" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#288f5c" r="12.4" cx="-133.24098"
+                class="id_北京大学" cy="-158.7516" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#51b18b" r="14.799999" cx="168.61766"
+                class="id_复旦大学" cy="-203.2207" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#66c2a4" r="10.0" cx="65.51578"
+                class="id_中国社会科学院" cy="-2.3899708" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#aa7b6a" r="14.2" cx="403.48907"
+                class="id_北京师范大学" cy="-463.7638" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#81a58c" r="13.6" cx="-53.49315"
+                class="id_华东师范大学" cy="-473.3939" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#81a58c" r="10.0" cx="-64.32535"
+                class="id_南开大学" cy="-260.32758" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#8f9781" r="11.2" cx="298.3244"
+                class="id_首都师范大学" cy="-189.03468" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#8f9781" r="11.2" cx="-104.8013"
+                class="id_上海交通大学" cy="-25.752745" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#8f9781" r="10.6" cx="-82.188736"
+                class="id_南京大学" cy="89.0101" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#aa7b6a" r="10.0" cx="-68.99357"
+                class="id_湖南大学" cy="467.54697" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#8f9781" r="10.0" cx="-129.09048"
+                class="id_山东大学" cy="366.66254" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e0453d" r="10.0" cx="-337.11472"
+                class="id_剑桥大学" cy="43.230377" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#aa7b6a" r="10.0" cx="223.79002"
+                class="id_中国政法大学" cy="-359.0819" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#aa7b6a" r="21.7" cx="195.15976"
+                class="id_武汉大学" cy="42.90298" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e0453d" r="10.0" cx="-340.86612"
+                class="id_哥本哈根大学" cy="14.284903" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e0453d" r="10.0" cx="-304.8294"
+                class="id_中国科学院大学" cy="-422.4987" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e0453d" r="10.0" cx="-260.99777"
+                class="id_普林斯顿大学" cy="311.63458" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c56054" r="11.5" cx="608.9545"
+                class="id_兰州大学" cy="-83.92777" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c56054" r="11.2" cx="92.602486"
+                class="id_同济大学" cy="134.1703" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c56054" r="10.0" cx="-319.60834"
+                class="id_中国科学技术大学" cy="-206.51009" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e0453d" r="10.0" cx="311.89386"
+                class="id_中国科学院" cy="127.54118" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c56054" r="10.0" cx="313.95142"
+                class="id_华南师范大学" cy="-37.473766" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c56054" r="10.0" cx="244.10608"
+                class="id_中共中央党校" cy="218.49016" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e0453d" r="10.0" cx="-335.34842"
+                class="id_江苏宏德文化初版基金会" cy="-454.91034" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c56054" r="10.0" cx="83.214745"
+                class="id_山西大学" cy="212.03702" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e0453d" r="10.0" cx="329.60303"
+                class="id_苏州大学" cy="94.771835" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c56054" r="11.2" cx="50.30296"
+                class="id_南京师范大学" cy="-457.44327" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c56054" r="25.0" cx="-184.18207"
+                class="id_中山大学（珠海）" cy="198.63867" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e0453d" r="11.2" cx="-145.03554"
+                class="id_华侨大学" cy="-356.94083" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c56054" r="10.0" cx="-333.0403"
+                class="id_东南大学" cy="-118.206924" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e0453d" r="10.0" cx="-18.12568"
+                class="id_澳门大学" cy="-712.3164" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e0453d" r="10.0" cx="-435.0943"
+                class="id_芝加哥大学" cy="363.68124" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e0453d" r="10.0" cx="-485.4794"
+                class="id_台湾中研院" cy="19.31865" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e0453d" r="10.0" cx="-401.02072"
+                class="id_中盐金坛盐化有限责任公司" cy="-568.0548" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e0453d" r="10.0" cx="421.6122"
+                class="id_捷克科学院" cy="230.18092" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e0453d" r="10.0" cx="-286.09064"
+                class="id_慕尼黑大学" cy="440.7498" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e0453d" r="10.0" cx="572.51666"
+                class="id_北京体育大学" cy="-622.64404" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e0453d" r="10.0" cx="-297.2667"
+                class="id_《江海学刊》，《文史哲》" cy="485.5258" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e0453d" r="10.0" cx="-487.19434"
+                class="id_上海社会科学研究所" cy="123.04383" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e0453d" r="10.0" cx="453.30704"
+                class="id_中科院" cy="180.45949" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e0453d" r="10.0" cx="-509.08362"
+                class="id_新加坡国立大学" cy="-24.259949" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e0453d" r="10.0" cx="340.70087"
+                class="id_陕西师范大学" cy="-355.096" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e0453d" r="10.0" cx="40.765335"
+                class="id_河南师范大学" cy="732.1286" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e0453d" r="10.0" cx="-342.75717"
+                class="id_牛津大学" cy="414.11356" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e0453d" r="10.0" cx="804.60846"
+                class="id_美国普渡大学" cy="-97.569466" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e0453d" r="10.0" cx="60.39398"
+                class="id_德国哈根大学" cy="-360.86713" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e0453d" r="10.0" cx="424.30997"
+                class="id_哈佛大学" cy="146.44142" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e0453d" r="10.0" cx="147.34007"
+                class="id_全国老子与道学文化研究会" cy="306.77527" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e0453d" r="10.0" cx="-477.9538"
+                class="id_丹麦哥本哈根大学" cy="72.66506" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e0453d" r="10.0" cx="-343.64255"
+                class="id_韩国大学" cy="462.5444" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e0453d" r="10.0" cx="-238.78104"
+                class="id_郑州大学" cy="433.50027" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e0453d" r="10.0" cx="-64.16997"
+                class="id_四川大学" cy="-736.26965" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e0453d" r="10.0" cx="910.0177"
+                class="id_中央民族大学" cy="2257.6248" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e0453d" r="10.0" cx="802.80853"
+                class="id_云南师范大学" cy="-51.09674" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e0453d" r="10.0" cx="-123.17683"
+                class="id_云南大学" cy="-713.0111" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e0453d" r="10.0" cx="519.13104"
+                class="id_大连理工大学" cy="-641.4724" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e0453d" r="10.0" cx="432.2859"
+                class="id_香港亚洲艺术文献库" cy="-243.34224" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e0453d" r="10.0" cx="-296.60132"
+                class="id_商务印书馆" cy="396.3327" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e0453d" r="10.0" cx="455.64453"
+                class="id_华中科技大学" cy="113.296135" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e0453d" r="10.0" cx="-530.49585"
+                class="id_中国美术学院" cy="28.399406" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e0453d" r="10.0" cx="433.73587"
+                class="id_瓦萨学院、武汉大学" cy="-297.77112" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e0453d" r="10.0" cx="-400.31137"
+                class="id_宏德文化出版基金会理事长" cy="-522.54675" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e0453d" r="10.0" cx="541.6601"
+                class="id_中科大" cy="-592.5656" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e0453d" r="10.0" cx="-454.56757"
+                class="id_新华网浙江分公司总经理" cy="-476.96582" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e0453d" r="11.5" cx="7.772097"
+                class="id_湖南师范大学" cy="531.6238" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e0453d" r="10.0" cx="391.7505"
+                class="id_美国犹他大学" cy="-282.80322" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e0453d" r="10.0" cx="-347.21655"
+                class="id_卫斯理大学" cy="364.60214" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e0453d" r="10.0" cx="-430.54785"
+                class="id_上海师范大学" cy="313.54825" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e0453d" r="10.0" cx="-523.0357"
+                class="id_江苏省社会科学院" cy="82.96061" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e0453d" r="10.0" cx="-409.57715"
+                class="id_北京外国语大学" cy="-254.13512" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e0453d" r="10.0" cx="-354.14597"
+                class="id_吉林大学" cy="-575.71045" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e0453d" r="10.0" cx="-76.85882"
+                class="id_上海社科院" cy="-695.62317" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e0453d" r="10.0" cx="-246.74983"
+                class="id_贵州大学" cy="489.92432" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e0453d" r="10.0" cx="374.46875"
+                class="id_中央社会主义学院" cy="250.18237" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e0453d" r="10.0" cx="108.51113"
+                class="id_华东政法大学" cy="-359.30966" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e0453d" r="10.0" cx="395.08054"
+                class="id_浙江师范大学" cy="194.76843" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e0453d" r="10.0" cx="-390.96112"
+                class="id_宾夕法尼亚大学" cy="431.9382" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e0453d" r="10.0" cx="-203.48943"
+                class="id_深圳大学" cy="472.3216" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e0453d" r="10.0" cx="-445.8655"
+                class="id_中国电建集团江西装备有限公司党委副书记" cy="-523.6422" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e0453d" r="10.0" cx="128.33965"
+                class="id_中国社会学院" cy="-397.55884" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e0453d" r="10.0" cx="382.9337"
+                class="id_台湾政治大学" cy="-329.23514" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e0453d" r="10.0" cx="-385.5286"
+                class="id_俄罗斯科学院" cy="331.58273" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e0453d" r="10.0" cx="-396.54413"
+                class="id_美国加州州立大学富乐敦分校" cy="386.70267" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fb2a27" r="10.3" cx="883.7655"
+                class="id_兰州大学北京校友会" cy="2268.1318" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fb2a27" r="11.8" cx="-39.79016"
+                class="id_西安交大" cy="201.65524" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fb2a27" r="10.3" cx="589.6103"
+                class="id_中国艺术研究院" cy="-568.4307" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+    </g>
+    <g id="node-labels">
+        <text font-size="12" x="-2.9258919" y="-149.61476" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Source Han Sans Medium" class="id_中山大学">
+            中山大学
+        </text>
+        <text font-size="12" x="15.646478" y="48.55698" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Source Han Sans Medium" class="id_中国人民大学">
+            中国人民大学
+        </text>
+        <text font-size="12" x="-229.92297" y="16.25482" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Source Han Sans Medium" class="id_浙江大学">
+            浙江大学
+        </text>
+        <text font-size="12" x="76.29062" y="-126.42517" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Source Han Sans Medium" class="id_清华大学">
+            清华大学
+        </text>
+        <text font-size="12" x="-232.26227" y="-347.15546" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Source Han Sans Medium" class="id_厦门大学">
+            厦门大学
+        </text>
+        <text font-size="12" x="-133.24098" y="-155.98207" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Source Han Sans Medium" class="id_北京大学">
+            北京大学
+        </text>
+        <text font-size="12" x="168.61766" y="-200.44238" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Source Han Sans Medium" class="id_复旦大学">
+            复旦大学
+        </text>
+        <text font-size="12" x="65.51578" y="0.38541985" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Source Han Sans Medium" class="id_中国社会科学院">
+            中国社会科学院
+        </text>
+        <text font-size="12" x="403.48907" y="-460.99426" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Source Han Sans Medium" class="id_北京师范大学">
+            北京师范大学
+        </text>
+        <text font-size="12" x="-53.49315" y="-470.62143" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Source Han Sans Medium" class="id_华东师范大学">
+            华东师范大学
+        </text>
+        <text font-size="12" x="-64.32535" y="-257.54633" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Source Han Sans Medium" class="id_南开大学">
+            南开大学
+        </text>
+        <text font-size="12" x="298.3244" y="-186.26515" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Source Han Sans Medium" class="id_首都师范大学">
+            首都师范大学
+        </text>
+        <text font-size="12" x="-104.8013" y="-22.974424" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Source Han Sans Medium" class="id_上海交通大学">
+            上海交通大学
+        </text>
+        <text font-size="12" x="-82.188736" y="91.77963" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Source Han Sans Medium" class="id_南京大学">
+            南京大学
+        </text>
+        <text font-size="12" x="-68.99357" y="470.3253" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Source Han Sans Medium" class="id_湖南大学">
+            湖南大学
+        </text>
+        <text font-size="12" x="-129.09048" y="369.435" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Source Han Sans Medium" class="id_山东大学">
+            山东大学
+        </text>
+        <text font-size="12" x="-337.11472" y="46.026276" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Source Han Sans Medium" class="id_剑桥大学">
+            剑桥大学
+        </text>
+        <text font-size="12" x="223.79002" y="-356.30652" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Source Han Sans Medium" class="id_中国政法大学">
+            中国政法大学
+        </text>
+        <text font-size="12" x="195.15976" y="45.67837" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Source Han Sans Medium" class="id_武汉大学">
+            武汉大学
+        </text>
+        <text font-size="12" x="-340.86612" y="17.060293" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Source Han Sans Medium" class="id_哥本哈根大学">
+            哥本哈根大学
+        </text>
+        <text font-size="12" x="-304.8294" y="-419.72916" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Source Han Sans Medium" class="id_中国科学院大学">
+            中国科学院大学
+        </text>
+        <text font-size="12" x="-260.99777" y="314.40997" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Source Han Sans Medium" class="id_普林斯顿大学">
+            普林斯顿大学
+        </text>
+        <text font-size="12" x="608.9545" y="-81.15824" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Source Han Sans Medium" class="id_兰州大学">
+            兰州大学
+        </text>
+        <text font-size="12" x="92.602486" y="136.9457" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Source Han Sans Medium" class="id_同济大学">
+            同济大学
+        </text>
+        <text font-size="12" x="-319.60834" y="-203.73763" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Source Han Sans Medium" class="id_中国科学技术大学">
+            中国科学技术大学
+        </text>
+        <text font-size="12" x="311.89386" y="130.31071" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Source Han Sans Medium" class="id_中国科学院">
+            中国科学院
+        </text>
+        <text font-size="12" x="313.95142" y="-34.704235" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Source Han Sans Medium" class="id_华南师范大学">
+            华南师范大学
+        </text>
+        <text font-size="12" x="244.10608" y="221.25285" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Source Han Sans Medium" class="id_中共中央党校">
+            中共中央党校
+        </text>
+        <text font-size="12" x="-335.34842" y="-452.1291" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Source Han Sans Medium" class="id_江苏宏德文化初版基金会">
+            江苏宏德文化初版基金会
+        </text>
+        <text font-size="12" x="83.214745" y="214.80655" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Source Han Sans Medium" class="id_山西大学">
+            山西大学
+        </text>
+        <text font-size="12" x="329.60303" y="97.547226" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Source Han Sans Medium" class="id_苏州大学">
+            苏州大学
+        </text>
+        <text font-size="12" x="50.30296" y="-454.67374" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Source Han Sans Medium" class="id_南京师范大学">
+            南京师范大学
+        </text>
+        <text font-size="12" x="-184.18207" y="201.50684" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Source Han Sans Medium" class="id_中山大学（珠海）">
+            中山大学（珠海）
+        </text>
+        <text font-size="12" x="-145.03554" y="-354.15958" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Source Han Sans Medium" class="id_华侨大学">
+            华侨大学
+        </text>
+        <text font-size="12" x="-333.0403" y="-115.43446" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Source Han Sans Medium" class="id_东南大学">
+            东南大学
+        </text>
+        <text font-size="12" x="-18.12568" y="-709.5469" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Source Han Sans Medium" class="id_澳门大学">
+            澳门大学
+        </text>
+        <text font-size="12" x="-435.0943" y="366.4537" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Source Han Sans Medium" class="id_芝加哥大学">
+            芝加哥大学
+        </text>
+        <text font-size="12" x="-485.4794" y="22.105759" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Source Han Sans Medium" class="id_台湾中研院">
+            台湾中研院
+        </text>
+        <text font-size="12" x="-401.02072" y="-565.28235" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Source Han Sans Medium" class="id_中盐金坛盐化有限责任公司">
+            中盐金坛盐化有限责任公司
+        </text>
+        <text font-size="12" x="421.6122" y="232.96217" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Source Han Sans Medium" class="id_捷克科学院">
+            捷克科学院
+        </text>
+        <text font-size="12" x="-286.09064" y="443.5281" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Source Han Sans Medium" class="id_慕尼黑大学">
+            慕尼黑大学
+        </text>
+        <text font-size="12" x="572.51666" y="-619.8745" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Source Han Sans Medium" class="id_北京体育大学">
+            北京体育大学
+        </text>
+        <text font-size="12" x="-297.2667" y="488.43008" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Source Han Sans Medium" class="id_《江海学刊》，《文史哲》">
+            《江海学刊》，《文史哲》
+        </text>
+        <text font-size="12" x="-487.19434" y="125.82801" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Source Han Sans Medium" class="id_上海社会科学研究所">
+            上海社会科学研究所
+        </text>
+        <text font-size="12" x="453.30704" y="183.2134" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Source Han Sans Medium" class="id_中科院">
+            中科院
+        </text>
+        <text font-size="12" x="-509.08362" y="-21.481628" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Source Han Sans Medium" class="id_新加坡国立大学">
+            新加坡国立大学
+        </text>
+        <text font-size="12" x="340.70087" y="-352.3089" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Source Han Sans Medium" class="id_陕西师范大学">
+            陕西师范大学
+        </text>
+        <text font-size="12" x="40.765335" y="734.89813" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Source Han Sans Medium" class="id_河南师范大学">
+            河南师范大学
+        </text>
+        <text font-size="12" x="-342.75717" y="416.8831" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Source Han Sans Medium" class="id_牛津大学">
+            牛津大学
+        </text>
+        <text font-size="12" x="804.60846" y="-94.797005" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Source Han Sans Medium" class="id_美国普渡大学">
+            美国普渡大学
+        </text>
+        <text font-size="12" x="60.39398" y="-358.09174" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Source Han Sans Medium" class="id_德国哈根大学">
+            德国哈根大学
+        </text>
+        <text font-size="12" x="424.30997" y="149.22267" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Source Han Sans Medium" class="id_哈佛大学">
+            哈佛大学
+        </text>
+        <text font-size="12" x="147.34007" y="309.55945" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Source Han Sans Medium" class="id_全国老子与道学文化研究会">
+            全国老子与道学文化研究会
+        </text>
+        <text font-size="12" x="-477.9538" y="75.44045" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Source Han Sans Medium" class="id_丹麦哥本哈根大学">
+            丹麦哥本哈根大学
+        </text>
+        <text font-size="12" x="-343.64255" y="465.3198" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Source Han Sans Medium" class="id_韩国大学">
+            韩国大学
+        </text>
+        <text font-size="12" x="-238.78104" y="436.2698" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Source Han Sans Medium" class="id_郑州大学">
+            郑州大学
+        </text>
+        <text font-size="12" x="-64.16997" y="-733.4767" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Source Han Sans Medium" class="id_四川大学">
+            四川大学
+        </text>
+        <text font-size="12" x="910.0177" y="2260.3972" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Source Han Sans Medium" class="id_中央民族大学">
+            中央民族大学
+        </text>
+        <text font-size="12" x="802.80853" y="-48.32428" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Source Han Sans Medium" class="id_云南师范大学">
+            云南师范大学
+        </text>
+        <text font-size="12" x="-123.17683" y="-710.23865" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Source Han Sans Medium" class="id_云南大学">
+            云南大学
+        </text>
+        <text font-size="12" x="519.13104" y="-638.68823" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Source Han Sans Medium" class="id_大连理工大学">
+            大连理工大学
+        </text>
+        <text font-size="12" x="432.2859" y="-240.56978" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Source Han Sans Medium" class="id_香港亚洲艺术文献库">
+            香港亚洲艺术文献库
+        </text>
+        <text font-size="12" x="-296.60132" y="399.10516" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Source Han Sans Medium" class="id_商务印书馆">
+            商务印书馆
+        </text>
+        <text font-size="12" x="455.64453" y="116.068596" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Source Han Sans Medium" class="id_华中科技大学">
+            华中科技大学
+        </text>
+        <text font-size="12" x="-530.49585" y="31.171867" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Source Han Sans Medium" class="id_中国美术学院">
+            中国美术学院
+        </text>
+        <text font-size="12" x="433.73587" y="-294.99573" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Source Han Sans Medium" class="id_瓦萨学院、武汉大学">
+            瓦萨学院、武汉大学
+        </text>
+        <text font-size="12" x="-400.31137" y="-519.7655" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Source Han Sans Medium" class="id_宏德文化出版基金会理事长">
+            宏德文化出版基金会理事长
+        </text>
+        <text font-size="12" x="541.6601" y="-589.81464" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Source Han Sans Medium" class="id_中科大">
+            中科大
+        </text>
+        <text font-size="12" x="-454.56757" y="-474.19043" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Source Han Sans Medium" class="id_新华网浙江分公司总经理">
+            新华网浙江分公司总经理
+        </text>
+        <text font-size="12" x="7.772097" y="534.4021" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Source Han Sans Medium" class="id_湖南师范大学">
+            湖南师范大学
+        </text>
+        <text font-size="12" x="391.7505" y="-280.03076" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Source Han Sans Medium" class="id_美国犹他大学">
+            美国犹他大学
+        </text>
+        <text font-size="12" x="-347.21655" y="367.37167" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Source Han Sans Medium" class="id_卫斯理大学">
+            卫斯理大学
+        </text>
+        <text font-size="12" x="-430.54785" y="316.31778" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Source Han Sans Medium" class="id_上海师范大学">
+            上海师范大学
+        </text>
+        <text font-size="12" x="-523.0357" y="85.736" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Source Han Sans Medium" class="id_江苏省社会科学院">
+            江苏省社会科学院
+        </text>
+        <text font-size="12" x="-409.57715" y="-251.36559" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Source Han Sans Medium" class="id_北京外国语大学">
+            北京外国语大学
+        </text>
+        <text font-size="12" x="-354.14597" y="-572.9263" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Source Han Sans Medium" class="id_吉林大学">
+            吉林大学
+        </text>
+        <text font-size="12" x="-76.85882" y="-692.86633" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Source Han Sans Medium" class="id_上海社科院">
+            上海社科院
+        </text>
+        <text font-size="12" x="-246.74983" y="492.70557" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Source Han Sans Medium" class="id_贵州大学">
+            贵州大学
+        </text>
+        <text font-size="12" x="374.46875" y="252.9607" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Source Han Sans Medium" class="id_中央社会主义学院">
+            中央社会主义学院
+        </text>
+        <text font-size="12" x="108.51113" y="-356.53134" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Source Han Sans Medium" class="id_华东政法大学">
+            华东政法大学
+        </text>
+        <text font-size="12" x="395.08054" y="197.53796" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Source Han Sans Medium" class="id_浙江师范大学">
+            浙江师范大学
+        </text>
+        <text font-size="12" x="-390.96112" y="434.72238" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Source Han Sans Medium" class="id_宾夕法尼亚大学">
+            宾夕法尼亚大学
+        </text>
+        <text font-size="12" x="-203.48943" y="475.09113" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Source Han Sans Medium" class="id_深圳大学">
+            深圳大学
+        </text>
+        <text font-size="12" x="-445.8655" y="-520.8668" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Source Han Sans Medium"
+              class="id_中国电建集团江西装备有限公司党委副书记">
+            中国电建集团江西装备有限公司党委副书记
+        </text>
+        <text font-size="12" x="128.33965" y="-394.78345" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Source Han Sans Medium" class="id_中国社会学院">
+            中国社会学院
+        </text>
+        <text font-size="12" x="382.9337" y="-326.45682" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Source Han Sans Medium" class="id_台湾政治大学">
+            台湾政治大学
+        </text>
+        <text font-size="12" x="-385.5286" y="334.35812" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Source Han Sans Medium" class="id_俄罗斯科学院">
+            俄罗斯科学院
+        </text>
+        <text font-size="12" x="-396.54413" y="389.48685" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Source Han Sans Medium" class="id_美国加州州立大学富乐敦分校">
+            美国加州州立大学富乐敦分校
+        </text>
+    </g>
+</svg>
